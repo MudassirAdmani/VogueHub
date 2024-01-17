@@ -24,6 +24,12 @@ Route::middleware([
     })->name('dashboard');
 });
 
+// Routes
+
+// login route
+
 Route::get('/redirect',[HomeController::class, 'redirect']);
+
+// default route
 
 Route::get('/',[HomeController::class, 'index']);

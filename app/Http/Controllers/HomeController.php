@@ -8,8 +8,10 @@ use Illuminate\Support\Facades\Auth;
 
 class HomeController extends Controller
 {
+    // login work
     public function redirect()
     {
+        // check usertype
         $usertype = Auth::user()->usertype;
         if ($usertype == '1') {
             return view('admin.home');
@@ -17,6 +19,7 @@ class HomeController extends Controller
             return view('dashboard');
         }
     }
+    // default page
     public function index()
     {
         return view('home.userpage');
