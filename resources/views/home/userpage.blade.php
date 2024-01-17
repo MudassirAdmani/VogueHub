@@ -11,16 +11,16 @@
     <meta name="keywords" content="" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <link rel="shortcut icon" href="images/favicon.png" type="">
+    <link rel="shortcut icon" href="home/images/favicon.png" type="">
     <title>Famms - Fashion HTML Template</title>
     <!-- bootstrap core css -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="home/css/bootstrap.css" />
     <!-- font awesome style -->
-    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link href="home/css/font-awesome.min.css" rel="stylesheet" />
     <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet" />
+    <link href="home/css/style.css" rel="stylesheet" />
     <!-- responsive style -->
-    <link href="css/responsive.css" rel="stylesheet" />
+    <link href="home/css/responsive.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -29,33 +29,33 @@
         <header class="header_section">
             <div class="container">
                 <nav class="navbar navbar-expand-lg custom_nav-container ">
-                    <a class="navbar-brand" href="index.html"><img width="250" src="images/logo.png" alt="#" /></a>
+                    <a class="navbar-brand" href="home/index.html"><img width="250" src="home/images/logo.png" alt="#" /></a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class=""> </span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="nav-item active">
-                                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="home/index.html">Home <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Pages <span class="caret"></span></a>
+                                <a class="nav-link dropdown-toggle" href="home/#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true"> <span class="nav-label">Pages <span class="caret"></span></a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="testimonial.html">Testimonial</a></li>
+                                    <li><a href="home/about.html">About</a></li>
+                                    <li><a href="home/testimonial.html">Testimonial</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="product.html">Products</a>
+                                <a class="nav-link" href="home/product.html">Products</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="blog_list.html">Blog</a>
+                                <a class="nav-link" href="home/blog_list.html">Blog</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="contact.html">Contact</a>
+                                <a class="nav-link" href="home/contact.html">Contact</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">
+                                <a class="nav-link" href="home/#">
                                     <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
                                         <g>
                                             <g>
@@ -124,7 +124,7 @@
         <!-- slider section -->
         <section class="slider_section ">
             <div class="slider_bg_box">
-                <img src="images/slider-bg.jpg" alt="">
+                <img src="home/images/slider-bg.jpg" alt="">
             </div>
             <div id="customCarousel1" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
@@ -144,7 +144,7 @@
                                             Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
                                         </p>
                                         <div class="btn-box">
-                                            <a href="" class="btn1">
+                                            <a href="home/" class="btn1">
                                                 Shop Now
                                             </a>
                                         </div>
@@ -169,7 +169,7 @@
                                             Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
                                         </p>
                                         <div class="btn-box">
-                                            <a href="" class="btn1">
+                                            <a href="home/" class="btn1">
                                                 Shop Now
                                             </a>
                                         </div>
@@ -194,7 +194,7 @@
                                             Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
                                         </p>
                                         <div class="btn-box">
-                                            <a href="" class="btn1">
+                                            <a href="home/" class="btn1">
                                                 Shop Now
                                             </a>
                                         </div>
@@ -469,7 +469,7 @@
         <div class="container">
             <div class="box">
                 <div class="arrival_bg_box">
-                    <img src="images/arrival-bg.png" alt="">
+                    <img src="home/images/arrival-bg.png" alt="">
                 </div>
                 <div class="row">
                     <div class="col-md-6 ml-auto">
@@ -481,7 +481,7 @@
                         <p style="margin-top: 20px;margin-bottom: 30px;">
                             Vitae fugiat laboriosam officia perferendis provident aliquid voluptatibus dolorem, fugit ullam sit earum id eaque nisi hic? Tenetur commodi, nisi rem vel, ea eaque ab ipsa, autem similique ex unde!
                         </p>
-                        <a href="">
+                        <a href="home/">
                             Shop Now
                         </a>
                     </div>
@@ -504,16 +504,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Men's Shirt
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p1.png" alt="">
+                            <img src="home/images/p1.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -529,16 +529,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p2.png" alt="">
+                            <img src="home/images/p2.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -554,16 +554,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p3.png" alt="">
+                            <img src="home/images/p3.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -579,16 +579,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p4.png" alt="">
+                            <img src="home/images/p4.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -604,16 +604,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p5.png" alt="">
+                            <img src="home/images/p5.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -629,16 +629,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p6.png" alt="">
+                            <img src="home/images/p6.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -654,16 +654,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p7.png" alt="">
+                            <img src="home/images/p7.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -679,16 +679,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p8.png" alt="">
+                            <img src="home/images/p8.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -704,16 +704,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p9.png" alt="">
+                            <img src="home/images/p9.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -729,16 +729,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p10.png" alt="">
+                            <img src="home/images/p10.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -754,16 +754,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p11.png" alt="">
+                            <img src="home/images/p11.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -779,16 +779,16 @@
                     <div class="box">
                         <div class="option_container">
                             <div class="options">
-                                <a href="" class="option1">
+                                <a href="home/" class="option1">
                                     Add To Cart
                                 </a>
-                                <a href="" class="option2">
+                                <a href="home/" class="option2">
                                     Buy Now
                                 </a>
                             </div>
                         </div>
                         <div class="img-box">
-                            <img src="images/p12.png" alt="">
+                            <img src="home/images/p12.png" alt="">
                         </div>
                         <div class="detail-box">
                             <h5>
@@ -802,7 +802,7 @@
                 </div>
             </div>
             <div class="btn-box">
-                <a href="">
+                <a href="home/">
                     View All products
                 </a>
             </div>
@@ -849,7 +849,7 @@
                             <div class="img_container">
                                 <div class="img-box">
                                     <div class="img_box-inner">
-                                        <img src="images/client.jpg" alt="">
+                                        <img src="home/images/client.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -871,7 +871,7 @@
                             <div class="img_container">
                                 <div class="img-box">
                                     <div class="img_box-inner">
-                                        <img src="images/client.jpg" alt="">
+                                        <img src="home/images/client.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -893,7 +893,7 @@
                             <div class="img_container">
                                 <div class="img-box">
                                     <div class="img_box-inner">
-                                        <img src="images/client.jpg" alt="">
+                                        <img src="home/images/client.jpg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -912,11 +912,11 @@
                     </div>
                 </div>
                 <div class="carousel_btn_box">
-                    <a class="carousel-control-prev" href="#carouselExample3Controls" role="button" data-slide="prev">
+                    <a class="carousel-control-prev" href="home/#carouselExample3Controls" role="button" data-slide="prev">
                         <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
                         <span class="sr-only">Previous</span>
                     </a>
-                    <a class="carousel-control-next" href="#carouselExample3Controls" role="button" data-slide="next">
+                    <a class="carousel-control-next" href="home/#carouselExample3Controls" role="button" data-slide="next">
                         <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
                         <span class="sr-only">Next</span>
                     </a>
@@ -932,7 +932,7 @@
                 <div class="col-md-4">
                     <div class="full">
                         <div class="logo_footer">
-                            <a href="#"><img width="210" src="images/logo.png" alt="#" /></a>
+                            <a href="home/#"><img width="210" src="home/images/logo.png" alt="#" /></a>
                         </div>
                         <div class="information_f">
                             <p><strong>ADDRESS:</strong> 28 White tower, Street Name New York City, USA</p>
@@ -949,12 +949,12 @@
                                     <div class="widget_menu">
                                         <h3>Menu</h3>
                                         <ul>
-                                            <li><a href="#">Home</a></li>
-                                            <li><a href="#">About</a></li>
-                                            <li><a href="#">Services</a></li>
-                                            <li><a href="#">Testimonial</a></li>
-                                            <li><a href="#">Blog</a></li>
-                                            <li><a href="#">Contact</a></li>
+                                            <li><a href="home/#">Home</a></li>
+                                            <li><a href="home/#">About</a></li>
+                                            <li><a href="home/#">Services</a></li>
+                                            <li><a href="home/#">Testimonial</a></li>
+                                            <li><a href="home/#">Blog</a></li>
+                                            <li><a href="home/#">Contact</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -962,12 +962,12 @@
                                     <div class="widget_menu">
                                         <h3>Account</h3>
                                         <ul>
-                                            <li><a href="#">Account</a></li>
-                                            <li><a href="#">Checkout</a></li>
-                                            <li><a href="#">Login</a></li>
-                                            <li><a href="#">Register</a></li>
-                                            <li><a href="#">Shopping</a></li>
-                                            <li><a href="#">Widget</a></li>
+                                            <li><a href="home/#">Account</a></li>
+                                            <li><a href="home/#">Checkout</a></li>
+                                            <li><a href="home/#">Login</a></li>
+                                            <li><a href="home/#">Register</a></li>
+                                            <li><a href="home/#">Shopping</a></li>
+                                            <li><a href="home/#">Widget</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -998,20 +998,20 @@
     </footer>
     <!-- footer end -->
     <div class="cpy_">
-        <p class="mx-auto">© 2021 All Rights Reserved By <a href="https://html.design/">Free Html Templates</a><br>
+        <p class="mx-auto">© 2021 All Rights Reserved By <a href="home/https://html.design/">Free Html Templates</a><br>
 
-            Distributed By <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+            Distributed By <a href="home/https://themewagon.com/" target="_blank">ThemeWagon</a>
 
         </p>
     </div>
     <!-- jQery -->
-    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="home/js/jquery-3.4.1.min.js"></script>
     <!-- popper js -->
-    <script src="js/popper.min.js"></script>
+    <script src="home/js/popper.min.js"></script>
     <!-- bootstrap js -->
-    <script src="js/bootstrap.js"></script>
+    <script src="home/js/bootstrap.js"></script>
     <!-- custom js -->
-    <script src="js/custom.js"></script>
+    <script src="home/js/custom.js"></script>
 </body>
 
 </html>
